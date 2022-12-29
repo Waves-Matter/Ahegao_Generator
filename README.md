@@ -4,4 +4,4 @@ This project is my personal project i did in my free time. The main goal of the 
 Image which sparked my interest:
 ![ahegao facu aa](https://user-images.githubusercontent.com/65367384/197522198-cc6536e2-52a0-457c-a00f-51a729fd2d66.jpg)
 
-Dataset is not full because there are too many files. 
+Dataset can be found at *Images* folder 
