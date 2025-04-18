@@ -6,6 +6,6 @@ Image which sparked my interest:
 
 Dataset can be found at *Images* folder 
 
-Round2 - google collab code for a simple GAN, written and trained in ~2020
-Is able to generate this type of pictures: ![image](https://github.com/user-attachments/assets/d1cc5d3d-e496-40f6-be7f-8a947c33900c)
+Round2 - google collab code for a simple GAN, written and trained in ~2020.
+Trained model is able to generate pictures: ![image](https://github.com/user-attachments/assets/d1cc5d3d-e496-40f6-be7f-8a947c33900c)
 
